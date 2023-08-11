@@ -1,0 +1,24 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "contasirose",
+            "database": "seven_ORA",
+            "username": "sa",
+            "password": "aimare306090"
+        }
+    ]
+}
